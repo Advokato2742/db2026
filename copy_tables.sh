@@ -1,0 +1,1 @@
+sudo cp ~/db2026/tables/*.txt /var/lib/postgres/import/
